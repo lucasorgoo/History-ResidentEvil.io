@@ -1,0 +1,29 @@
+
+.imagenesDif {
+    width: 470px;
+    height: 350px;
+
+}
+
+.mainGrid {
+    display: grid;
+    grid-gap: 100px;
+    grid-template-columns: repeat(auto-fit, minmax (150px,1fr) );
+    justify-content: space-around;
+}
+
+.imagenesDif {
+    border-radius: 50px;
+}
+
+.imagenesDif:hover {
+    transform: scale(1.1);
+}
+
+.h1Dif{
+    color: red;
+    font-family: 'Lacquer', cursive;
+    display: flex;
+    text-align: center;
+}
+

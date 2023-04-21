@@ -1,0 +1,184 @@
+
+@media(max-width:768px) {
+    .header1 {
+        height: 220px;
+
+    }
+
+    .foto {
+        height: 420px;
+        width: 650px;
+        margin-top: 5px;
+    }
+
+    .foto2 {
+        height: 400px;
+        width: 650px;
+
+    }
+
+    .parrafoCap {
+        font-size: 20px;
+    }
+
+    footer {
+        height: 100px;
+    }
+
+    .logo {
+        height: 80px;
+    }
+
+
+
+
+    .personajesPrincipales {
+        width: 200px;
+        height: 300px;
+        padding: 2em;
+    }
+
+
+    .textoRe {
+        font-size: 15px;
+    }
+
+    .textoRe2{
+        font-size: 15px;
+    }
+
+
+
+    .imagenesDif{
+        width: 250px;
+        height: 10px;
+    }
+
+    .h1Dif{
+        font-size: 2px;
+    }
+
+}
+
+
+@media(max-width:772px) {
+    .foto {
+        height: 420px;
+        width: 650px;
+        margin-top: 5px;
+    }
+
+    .foto2 {
+        height: 400px;
+        width: 650px;
+
+    }
+
+
+    .textoRe {
+        font-size: 15px;
+    }
+    .textoRe2 {
+        font-size: 15px;
+    }
+
+}
+
+
+
+
+
+
+
+@media(max-width:425px) {
+
+    .foto {
+        height: 320px;
+        width: 400px;
+        margin-top: 5px;
+    }
+
+    .foto2 {
+        height: 320px;
+        width: 400px;
+        margin-bottom: -125px;
+
+    }
+
+    footer {
+        height: 100px;
+    }
+
+    .logo {
+        height: 80px;
+        width: 80%;
+    }
+
+    .personajesPrincipales {
+        width: 125px;
+        height: 250px;
+        padding: 2em;
+    }
+
+    .textoPersonajes {
+        font-size: 20px;
+    }
+
+    .textoRe {
+        font-size: 13px;
+        margin-top: 50px;
+        padding-inline-start: 50px;
+
+    }
+
+    .textoRe2{
+        font-size: 13px;
+        margin-top: 50px;
+        padding-inline-start: 50px;
+        
+    }
+
+    .resident{
+        width: 250px;
+        height: 250px;
+    }
+
+}
+
+
+
+@media(max-width:375px) {
+    .foto {
+        height: 300px;
+        width: 300px;
+        margin-top: 5px;
+
+    }
+
+    .foto2 {
+        height: 300px;
+        width: 300px;
+
+
+
+    }
+
+
+    .textoRe {
+        font-size: 15px;
+    }
+
+}
+
+
+
+@media(max-width:1024px){
+    .imagenesDif{
+        width: 275px;
+        height: 125px;
+    }
+
+    .h1Dif{
+        font-size: 25px;
+    }
+}
